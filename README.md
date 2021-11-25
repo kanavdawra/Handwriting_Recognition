@@ -1,6 +1,6 @@
 # Handwriting_Recognition
 
-Jupyter Notebook File - index.ipynb             Model is trained here
+Jupyter Notebook File - index.ipynb             Model is trained here</br>
 Config file - config.py                         Global Variables are stored here
 Dataset file - dataset.py                       Tensorflow dataset is made here
 Image Preprocesser file - ImagePreprocesser.py  Images are preprocessed here
