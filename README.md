@@ -19,7 +19,7 @@ Dataset used in this project is the transcriptions of 400,000 handwritten names 
 
 ## Deployment 
 
-The project is deployed on my website kanavdawra.com using GCP Cloud Functions
+The project is deployed on my website [kanavdawra.com](https://kanavdawra.com/portfolio/hrecognizer/) using GCP Cloud Functions
 
 ## Limitations
 
