@@ -24,3 +24,10 @@ The project is deployed on my website [kanavdawra.com](https://kanavdawra.com/po
 ## Limitations
 
 Right now it can only predict a sentence that is 35 characters long but in future, there is potential for making it recognize a full-page article
+
+## Run it 
+
+1. Download the dataset from [kaggle](https://www.kaggle.com/landlord/handwriting-recognition) extract the contents in a folder and name it Data.
+2. Clone the project file to a folder and name it Project.
+3. Make sure both the Project and Data are on the same level.
+4. Insatall all the dependencies and run the index.ipynb file in the Project folder  
