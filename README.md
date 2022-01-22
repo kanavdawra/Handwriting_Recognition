@@ -1,6 +1,17 @@
 
 # HRecognizer
 
+## Setup Project
+
+1. Download the dataset from [kaggle](https://www.kaggle.com/landlord/handwriting-recognition) extract the contents in a folder and name it Data.
+2. Download and install Miniconda form [Download here](https://docs.conda.io/en/latest/miniconda.html)
+3. Open conda terminal and create new environment using following command
+   ```conda create --name <env> --file <this file>``` where &lt;env&gt; is name of environment, &lt;this file&gt; is requirements.txt
+4. Navigate to 'src' directory in the terminal
+5. Activate conda environment with following command ```conda activate <env> ```where &lt;env&gt; is name of environment
+6. Start the server using following command ```python main.py```
+7. OR you can use the notebook 'main.ipynb' in the notebook directory
+
 ## Background and motivation
 
 With the advent of machine learning digital optical character recognition (OCR) is mostly solved and not much research is required in solving that problem. But Handwriting recognition is still an ongoing research topic because of many challenges. My hope is that by using a rich dataset of handwritten words and using deep learning techniques I can contribute in some way
@@ -25,9 +36,3 @@ The project is deployed on my website [kanavdawra.com](https://kanavdawra.com/po
 
 Right now it can only predict a sentence that is 35 characters long but in future, there is potential for making it recognize a full-page article
 
-## Run it 
-
-1. Download the dataset from [kaggle](https://www.kaggle.com/landlord/handwriting-recognition) extract the contents in a folder and name it Data.
-2. Clone the project file to a folder and name it Project.
-3. Make sure both the Project and Data are on the same level.
-4. Insatall all the dependencies and run the index.ipynb file in the Project folder  
