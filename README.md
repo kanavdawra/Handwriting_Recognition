@@ -1,6 +1,3 @@
-![](https://i.imgur.com/1oZNDmm.gif)
-
-
 # HRecognizer
 
 ## Setup Project
@@ -13,6 +10,10 @@
 5. Activate conda environment with following command ```conda activate <env> ```where &lt;env&gt; is name of environment
 6. Start the training using following command ```python main.py```
 7. OR you can use the notebook 'main.ipynb' in the notebook directory
+
+
+![](https://i.imgur.com/1oZNDmm.gif)
+
 
 ## Background and motivation
 
