@@ -1,3 +1,5 @@
+![](https://i.imgur.com/1oZNDmm.gif)
+
 
 # HRecognizer
 
@@ -9,7 +11,7 @@
    ```conda create --name <env> --file <this file>``` where &lt;env&gt; is name of environment, &lt;this file&gt; is requirements.txt
 4. Navigate to 'src' directory in the terminal
 5. Activate conda environment with following command ```conda activate <env> ```where &lt;env&gt; is name of environment
-6. Start the server using following command ```python main.py```
+6. Start the training using following command ```python main.py```
 7. OR you can use the notebook 'main.ipynb' in the notebook directory
 
 ## Background and motivation
